@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project Idea
+title: Refining Ideas
 ---
 
 {{ page.title }}
@@ -9,12 +9,5 @@ title: Final Project Idea
 <p class="meta">
 
  
-As a response to the constant pull technology has on my, and most people I know, life I want to construct a globe that shows secluded parts of the world. Right now I’m calling this project the Nowhere Map, but that’s really just a placeholder.  Hopefully as I process my ideas, and as the project continues to take shape, I will come up with a better name.
-
-Why a globe?  I want my response to how technology has hijacked my life to be a tangible, screen-less solution.  I want the user to be able to pick up the globe and imagine what it is like on the unrecognizable blobs of land that remain.   So for me and this project, 3-D all the way!  
-  
-Here is a quick prototype of what I imagine it will look like:
-
-
-![]({{ site.url }}/blog-template/images/proto-globe.JPG)
-
+ 
+I’ve refined my initial idea and changed my project’s title from nowhere map (which was never an appropriate title) to Deserted Islands, World Globe. I’ve come to think of my data, of lack of, as little islands.  What makes up these “islands” are areas that I consider to be remote locations that represents solitude.  I have come up with some parameters of what seclusion means to me: no people, no power, and no Internet.  I’m sure I could come up with many other factors, and I have, but for this project I’m sticking to those basic three elements.  
