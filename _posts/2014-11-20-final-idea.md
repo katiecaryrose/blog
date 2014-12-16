@@ -16,4 +16,4 @@ title: Final Project Idea
 Here is a quick prototype of what I imagine it will look like:
 
 
-![]({{ site.url }}/blog-template/images/proto-globe)
+![]({{ site.url }}/blog/images/proto-globe)
