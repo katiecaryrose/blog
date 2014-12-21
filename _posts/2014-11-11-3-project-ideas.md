@@ -12,6 +12,6 @@ title: 3 Ideas
 
 2.)A map that represents what is happening around the data.  If possible, a 3-D globe.  
 
-3.)A body map.  No clear directions but here is some inspiration:
+3.)A body map.  No clear direction but here is some inspiration:
 
 ![]({{ site.url }}/blog/images/youarehere2.jpg)
